@@ -1,4 +1,4 @@
 #include"hello.h"
 void hello(){
-printf("Hello, World ! ! ! ");
+printf("Greeting");
 }
